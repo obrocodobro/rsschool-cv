@@ -14,4 +14,4 @@ function multiply(a, b){
 
 
 ## **My Project**
-- Github: (https://obrocodobro.github.io/rsschool-cv/cv)
+- [Github](https://obrocodobro.github.io/rsschool-cv/cv)
