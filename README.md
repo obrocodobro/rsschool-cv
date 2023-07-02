@@ -1,1 +1,1 @@
-# rsschool-cv
+https://obrocodobro.github.io/rsschool-cv/cv
